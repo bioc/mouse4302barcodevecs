@@ -1,6 +1,7 @@
 \name{mouse4302barcodevecs}
 \docType{data}
 \alias{mouse4302barcodevecs}
+\alias{bcparams}
 \title{mouse4302 data for barcode}
 \description{Data used by the barcode package for microarrays of type mouse4302.}
 \usage{
