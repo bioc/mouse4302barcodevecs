@@ -1,12 +1,9 @@
 Package: mouse4302barcodevecs
 Title: mouse4302 data for barcode
-Version: 1.5.0
+Version: 1.5.1
 Author: Matthew N. McCall <mmccall@jhsph.edu>, Rafael A. Irizarry <rafa@jhu.edu>
 Description: Data used by the barcode package for microarrays of type mouse4302.
 Maintainer: Matthew N. McCall <mmccall@jhsph.edu>
 Depends: R (>= 2.10.0)
 License: GPL (>= 2)
-biocViews: AnnotationData, AffymetrixChip, mouse4302, Mus_musculus
-
-
-
+biocViews: Mus_musculus_Data, MicroarrayData
